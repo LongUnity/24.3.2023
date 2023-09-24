@@ -1,0 +1,8 @@
+C:\Users\May1\source\repos\OOP_Buoi6\Inheritance\bin\Debug\Inheritance.exe.config
+C:\Users\May1\source\repos\OOP_Buoi6\Inheritance\bin\Debug\Inheritance.exe
+C:\Users\May1\source\repos\OOP_Buoi6\Inheritance\bin\Debug\Inheritance.pdb
+C:\Users\May1\source\repos\OOP_Buoi6\Inheritance\obj\Debug\Inheritance.csproj.AssemblyReference.cache
+C:\Users\May1\source\repos\OOP_Buoi6\Inheritance\obj\Debug\Inheritance.csproj.SuggestedBindingRedirects.cache
+C:\Users\May1\source\repos\OOP_Buoi6\Inheritance\obj\Debug\Inheritance.csproj.CoreCompileInputs.cache
+C:\Users\May1\source\repos\OOP_Buoi6\Inheritance\obj\Debug\Inheritance.exe
+C:\Users\May1\source\repos\OOP_Buoi6\Inheritance\obj\Debug\Inheritance.pdb
